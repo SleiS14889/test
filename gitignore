@@ -1,0 +1,5 @@
+venv/
+__pycache__/
+*.pyc
+mi_cat_results.db
+.env
